@@ -1,0 +1,28 @@
+What do you think are the pros and cons of manually choosing when to create a commit,
+ like you do in Git, vs having versions automatically saved, like Google Docs does?
+ 
+ Pros: 
+ You can choose the most appropriate, logical, point at whichh to make a commit.
+ You can keep the changes small and manageable between commits.
+ You can commit at a point where a piece of work is complete rather than half way through.
+ 
+ Cons:
+ May result in too many intermediate commits.
+ Won't be done logically.
+ May be too lon or too short between commits.
+ 
+ How can you use the commands git log and git diff to view the history of files?
+ 
+ git log provides a list of all the commits that have previously been made in the 
+ repository. Each commit has a uniique hash that identifies that commit. In order to compaare the changes between two 
+ versions you need ot use the command git diff then the hash for the first commit and then the hash for the second commit.
+ 
+ This provides a list of changes betwee nthe two versions
+ 
+ 
+ How might using version control make you more confident to make changes that could break something?
+ since one can revert back and check for changes that cause problems easily version control 
+ allows ne to make changes without worrying about it too much as it allows you to  pinpoint 
+ when and which change introduced the problem and easily identify it.
+ 
+ 

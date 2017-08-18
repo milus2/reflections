@@ -1,0 +1,8 @@
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+ while others, like Google Docs, treat each file separately?
+
+ Git version control is designed for programmers who need to be able to track changes across multiple 
+ files whrer as google docs is designed for working with a document in a linear fashion in isolation so only needs to be able to revert back 
+ to a previous instance of just that file and is unrelated to other documents as the yare not tracked.
+ 
+ 
