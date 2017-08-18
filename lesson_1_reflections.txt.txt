@@ -1,0 +1,3 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+It summarised the changes so it was much more succinct and easier to find the lines that changed and to find the bug

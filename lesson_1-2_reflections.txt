@@ -1,0 +1,7 @@
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+If you make a error you can always revert back to a older version easily.
+You can also compare changes to see if something got changed that you weren't expecting such as a typo.
+Multiple files that are linked in some way can also be tracked for changes so you can know at any one time what which versions were used to execute and test out 
+new code.
+
