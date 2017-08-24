@@ -1,1 +1,13 @@
 What happens when you initialize a repository? Why do you need to do it?
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+the staging area is a intermediate stag before the files in the working directory are commited to 
+a repository and tracked.
+
+The working directory files are not necessarily tracked.
+
+
+some changes
+
+
